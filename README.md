@@ -10,4 +10,4 @@
 
 О контурах подробнее можно прочитать <a href="https://docs.opencv.org/4.2.0/d4/d73/tutorial_py_contours_begin.html" target="_blank" rel="noreferrer noopener" class="ext-link">здесь</a>.
 
-Здесь коды приложений для статьи <a href="https://waksoft.susu.ru/2020/06/14/risuem-v-vozduhe-s-pomoshhyu-virtualnoj-ruchki-lastika-i-opencv/" target="_blank" rel="noreferrer noopener" class="ext-link">Рисуем в воздухе с помощью виртуальной ручки, ластика и OpenCV</a>
+Полный текст и описание кодов в статье <a href="https://waksoft.susu.ru/2020/06/14/risuem-v-vozduhe-s-pomoshhyu-virtualnoj-ruchki-lastika-i-opencv/" target="_blank" rel="noreferrer noopener" class="ext-link">Рисуем в воздухе с помощью виртуальной ручки, ластика и OpenCV</a>
